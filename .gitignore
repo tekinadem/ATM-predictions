@@ -1,0 +1,7 @@
+*__pycache__*
+*ipynb_check*
+models/*sarimax*
+predictions.csv
+predictions_sarimax.csv
+fig/*.png
+models/linear.joblib
